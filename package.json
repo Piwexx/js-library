@@ -18,7 +18,7 @@
     "registry": "https://registry.npmjs.org"
   },
   "repository": {
-    "url": "https://github.com/Piwexx/js-library",
+    "url": "https://github.com/Piwexx/js-library-vite",
     "type": "git"
   },
   "license": "MIT",
