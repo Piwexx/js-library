@@ -1,7 +1,7 @@
 export default { 
   extends: ['@commitlint/config-conventional','@commitlint/cz-commitlint'],
   parserPreset: 'conventional-changelog-conventionalcommits',
-    rules: {},
+    rules: {'body-max-line-length': [0, 'always']},
     prompt: {
       settings: {},
       messages: {
