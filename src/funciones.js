@@ -19,3 +19,4 @@ export const raizCuadrada = (y) => Math.sqrt(y);
 
 export const promedio = arr => arr.reduce((a, b) => a + b, 0) / arr.length;
 
+export const areaCircle = r => Math.PI * r * r;
